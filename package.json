@@ -1,0 +1,16 @@
+{
+  "name": "todo-backend",
+  "version": "1.0.0",
+  "description": "ToDo List project for Learning",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "B.Adithya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.5.2",
+    "nodemon": "^3.1.4"
+  }
+}
